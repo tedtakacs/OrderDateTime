@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "OrderDateTime-to-Azure", "OrderDateTime-to-Azure\OrderDateTime-to-Azure.sqlproj", "{477A84A3-B37C-4D84-A8BE-380B075CCC2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{477A84A3-B37C-4D84-A8BE-380B075CCC2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{477A84A3-B37C-4D84-A8BE-380B075CCC2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{477A84A3-B37C-4D84-A8BE-380B075CCC2F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{477A84A3-B37C-4D84-A8BE-380B075CCC2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{477A84A3-B37C-4D84-A8BE-380B075CCC2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{477A84A3-B37C-4D84-A8BE-380B075CCC2F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B4A3173-A586-40AC-BA59-C554A2CBB89F}
+	EndGlobalSection
+EndGlobal
